@@ -9,5 +9,5 @@ def area_rectangle(length, breadth):
 l = int(input('Enter the length: '))
 b = int(input('Enter the breadth: '))
 
-print(perimeter(l, b))
-print(area(l, b))
+print(perimeter_rectangle(l, b))
+print(area_rectangle(l, b))
